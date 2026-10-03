@@ -105,12 +105,21 @@ Nitesh Sharma
 📧 Email: nitesh.sharma@servicebridge.co.in
 
 ---
+## Business Domain
 
+**01 · Company Foundation**
+
+| Attribute | Details |
+|---|---|
+| **Repository** | `servicebridge` |
+| **Repository Type** | Company Identity |
+| **Business Domain** | 01 · Company Foundation |
+| **Visibility** | Public |
+| **Status** | Active |
+
+---
 ## Let's Build Better Systems.
 
 **ServiceBridge**
 
 *Build · Connect · Transform*
-
----
-Business Domain: Company Foundation
