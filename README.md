@@ -93,6 +93,8 @@ Whether you are building a new enterprise application, modernizing a legacy plat
 
 🌐 Website: https://servicebridge.co.in
 
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/36110de1-580c-41f4-a463-4c6d7deae4cc" /> Linkedin: https://servicebridge.co.in
+
 📧 Business: business@servicebridge.co.in
 
 📧 Proposals: proposals@servicebridge.co.in
