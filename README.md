@@ -93,7 +93,7 @@ Whether you are building a new enterprise application, modernizing a legacy plat
 
 🌐 Website: https://servicebridge.co.in
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ServiceBridge-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/servicebridgefirm)  
+💼 Linkedin: https://www.linkedin.com/company/servicebridgefirm  
 
 📧 Business: business@servicebridge.co.in
 
